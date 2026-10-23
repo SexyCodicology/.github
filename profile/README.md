@@ -7,6 +7,11 @@
 ### 🕵️‍♀️ About Us
 We are dedicated to building open-source tools for codicologists, paleographers, and digital humanists. Our goal is to make the study of historical book structures accessible, data-driven, and —dare we say— sexy.
 
+### Explore the DMMapp
+
+* [Find digitised medieval manuscript collections](https://sexycodicology.github.io/Digitized-Medieval-Manuscripts-app/).
+* [Read the Sexy Codicology blog](https://sexycodicology.github.io/Digitized-Medieval-Manuscripts-app/blog/).
+
 ### 🤝 Get Involved
 We welcome contributions from developers and humanists alike!
 * 🐛 **Found a bug?** Open an issue in the relevant repo.
